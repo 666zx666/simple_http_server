@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/httpserver.dir/main.o  -o httpserver  -L/home/zx/http_server-master_new/build -rdynamic libTcpEpollServer.a libSocket.a liblogger.a libparameters.a libthread_pool.a libmy_thread.a libmy_condition.a libwork_thread.a -lpthread libTcpServer.a 

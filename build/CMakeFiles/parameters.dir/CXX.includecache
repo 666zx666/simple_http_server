@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zx/http_server-master_new/parameters.cpp
+parameters.h
+/home/zx/http_server-master_new/parameters.h
+stdlib.h
+-
+string.h
+-
+stdio.h
+-
+string
+-
+
+/home/zx/http_server-master_new/parameters.h
+getopt.h
+-
+vector
+-
+string
+-
+boost/property_tree/ptree.hpp
+-
+boost/property_tree/xml_parser.hpp
+-
+boost/property_tree/exceptions.hpp
+-
+

@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../base/my_thread.h
+boost/function.hpp
+-
+boost/atomic.hpp
+-
+my_thread.h
+-
+
+/home/zx/http_server-master_new/base/my_thread.cpp
+my_thread.h
+-
+

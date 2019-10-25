@@ -1,0 +1,2 @@
+/usr/bin/ar qc libwork_thread.a  CMakeFiles/work_thread.dir/work_thread.o
+/usr/bin/ranlib libwork_thread.a

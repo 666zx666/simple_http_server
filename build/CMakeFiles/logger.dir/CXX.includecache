@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zx/http_server-master_new/logger/logger.cpp
+logger.h
+/home/zx/http_server-master_new/logger/logger.h
+
+/home/zx/http_server-master_new/logger/logger.h
+iostream
+-
+pthread.h
+/home/zx/http_server-master_new/logger/pthread.h
+

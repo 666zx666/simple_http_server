@@ -1,0 +1,12 @@
+/home/zx/http_server-master_new/build/CMakeFiles/edit_cache.dir
+/home/zx/http_server-master_new/build/CMakeFiles/rebuild_cache.dir
+/home/zx/http_server-master_new/build/CMakeFiles/work_thread.dir
+/home/zx/http_server-master_new/build/CMakeFiles/my_condition.dir
+/home/zx/http_server-master_new/build/CMakeFiles/logger.dir
+/home/zx/http_server-master_new/build/CMakeFiles/my_thread.dir
+/home/zx/http_server-master_new/build/CMakeFiles/parameters.dir
+/home/zx/http_server-master_new/build/CMakeFiles/thread_pool.dir
+/home/zx/http_server-master_new/build/CMakeFiles/httpserver.dir
+/home/zx/http_server-master_new/build/CMakeFiles/TcpServer.dir
+/home/zx/http_server-master_new/build/CMakeFiles/Socket.dir
+/home/zx/http_server-master_new/build/CMakeFiles/TcpEpollServer.dir

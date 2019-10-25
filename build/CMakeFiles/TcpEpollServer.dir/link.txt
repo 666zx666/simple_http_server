@@ -1,0 +1,2 @@
+/usr/bin/ar qc libTcpEpollServer.a  CMakeFiles/TcpEpollServer.dir/TcpEpollServer.o
+/usr/bin/ranlib libTcpEpollServer.a

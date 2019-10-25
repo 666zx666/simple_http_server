@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../base/my_condition.h
+my_mutex.h
+-
+boost/noncopyable.hpp
+-
+
+../base/my_mutex.h
+boost/noncopyable.hpp
+-
+pthread.h
+-
+
+/home/zx/http_server-master_new/base/my_condition.cpp
+my_condition.h
+-
+errno.h
+-
+time.h
+-
+

@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../logger/logger.h
+iostream
+-
+pthread.h
+../logger/pthread.h
+
+/home/zx/http_server-master_new/Socket.cpp
+Socket.h
+/home/zx/http_server-master_new/Socket.h
+sys/socket.h
+-
+netinet/in.h
+-
+assert.h
+-
+string.h
+-
+iostream
+-
+logger.h
+-
+
+/home/zx/http_server-master_new/Socket.h
+boost/noncopyable.hpp
+-
+
